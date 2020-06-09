@@ -1,1 +1,1 @@
-let color = [azul, rojo, amarillo]
+let color = ["azul", "rojo", "amarillo"]
