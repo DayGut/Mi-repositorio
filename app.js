@@ -1,1 +1,1 @@
-let color; 
+let color = [azul, rojo, amarillo]
